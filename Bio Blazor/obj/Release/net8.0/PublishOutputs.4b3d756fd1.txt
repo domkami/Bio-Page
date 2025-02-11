@@ -1,0 +1,7 @@
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\obj\Release\net8.0\PubTmp\Out\Bio_Blazor.exe
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\obj\Release\net8.0\PubTmp\Out\Bio_Blazor.dll
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\obj\Release\net8.0\PubTmp\Out\Bio_Blazor.deps.json
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\obj\Release\net8.0\PubTmp\Out\Bio_Blazor.runtimeconfig.json
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\obj\Release\net8.0\PubTmp\Out\Bio_Blazor.pdb

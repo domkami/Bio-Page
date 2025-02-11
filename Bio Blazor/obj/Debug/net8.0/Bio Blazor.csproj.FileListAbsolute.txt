@@ -1,0 +1,59 @@
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\Bio Blazor\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\Bio Blazor\bin\Debug\net8.0\appsettings.json
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\Bio Blazor\bin\Debug\net8.0\Bio_Blazor.staticwebassets.runtime.json
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\Bio Blazor\bin\Debug\net8.0\Bio_Blazor.exe
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\Bio Blazor\bin\Debug\net8.0\Bio_Blazor.deps.json
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\Bio Blazor\bin\Debug\net8.0\Bio_Blazor.runtimeconfig.json
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\Bio Blazor\bin\Debug\net8.0\Bio_Blazor.dll
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\Bio Blazor\bin\Debug\net8.0\Bio_Blazor.pdb
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\Bio Blazor\obj\Debug\net8.0\Bio Blazor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\Bio Blazor\obj\Debug\net8.0\Bio Blazor.AssemblyInfoInputs.cache
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\Bio Blazor\obj\Debug\net8.0\Bio Blazor.AssemblyInfo.cs
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\Bio Blazor\obj\Debug\net8.0\Bio Blazor.csproj.CoreCompileInputs.cache
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\Bio Blazor\obj\Debug\net8.0\Bio_Blazor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\Bio Blazor\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\Bio Blazor\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\Bio Blazor\obj\Debug\net8.0\staticwebassets\msbuild.Bio_Blazor.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\Bio Blazor\obj\Debug\net8.0\staticwebassets\msbuild.build.Bio_Blazor.props
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\Bio Blazor\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Bio_Blazor.props
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\Bio Blazor\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Bio_Blazor.props
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\Bio Blazor\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\Bio Blazor\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\Bio Blazor\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\Bio Blazor\obj\Debug\net8.0\scopedcss\bundle\Bio_Blazor.styles.css
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\Bio Blazor\obj\Debug\net8.0\scopedcss\projectbundle\Bio_Blazor.bundle.scp.css
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\Bio Blazor\obj\Debug\net8.0\Bio_Blazor.dll
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\Bio Blazor\obj\Debug\net8.0\refint\Bio_Blazor.dll
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\Bio Blazor\obj\Debug\net8.0\Bio_Blazor.pdb
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\Bio Blazor\obj\Debug\net8.0\Bio Blazor.genruntimeconfig.cache
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\Bio Blazor\obj\Debug\net8.0\ref\Bio_Blazor.dll
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\bin\Debug\net8.0\appsettings.json
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\bin\Debug\net8.0\Bio_Blazor.staticwebassets.runtime.json
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\bin\Debug\net8.0\Bio_Blazor.exe
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\bin\Debug\net8.0\Bio_Blazor.deps.json
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\bin\Debug\net8.0\Bio_Blazor.runtimeconfig.json
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\bin\Debug\net8.0\Bio_Blazor.dll
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\bin\Debug\net8.0\Bio_Blazor.pdb
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\obj\Debug\net8.0\Bio Blazor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\obj\Debug\net8.0\Bio Blazor.AssemblyInfoInputs.cache
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\obj\Debug\net8.0\Bio Blazor.AssemblyInfo.cs
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\obj\Debug\net8.0\Bio Blazor.csproj.CoreCompileInputs.cache
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\obj\Debug\net8.0\Bio_Blazor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\obj\Debug\net8.0\Bio Blazor.sourcelink.json
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\obj\Debug\net8.0\staticwebassets\msbuild.Bio_Blazor.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\obj\Debug\net8.0\staticwebassets\msbuild.build.Bio_Blazor.props
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Bio_Blazor.props
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Bio_Blazor.props
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\obj\Debug\net8.0\scopedcss\bundle\Bio_Blazor.styles.css
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\obj\Debug\net8.0\scopedcss\projectbundle\Bio_Blazor.bundle.scp.css
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\obj\Debug\net8.0\Bio_Blazor.dll
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\obj\Debug\net8.0\refint\Bio_Blazor.dll
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\obj\Debug\net8.0\Bio_Blazor.pdb
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\obj\Debug\net8.0\Bio Blazor.genruntimeconfig.cache
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor\Bio Blazor\obj\Debug\net8.0\ref\Bio_Blazor.dll

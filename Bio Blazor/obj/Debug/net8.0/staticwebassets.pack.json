@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor\\Bio Blazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Bio_Blazor.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Bio_Blazor.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor\\Bio Blazor\\wwwroot\\HTMLBIOPAGE.html",
+      "PackagePath": "staticwebassets\\HTMLBIOPAGE.html"
+    },
+    {
+      "Id": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor\\Bio Blazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor\\Bio Blazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor\\Bio Blazor\\wwwroot\\cennik.html",
+      "PackagePath": "staticwebassets\\cennik.html"
+    },
+    {
+      "Id": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor\\Bio Blazor\\wwwroot\\dowiedz-sie-wiecej.html",
+      "PackagePath": "staticwebassets\\dowiedz-sie-wiecej.html"
+    },
+    {
+      "Id": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor\\Bio Blazor\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor\\Bio Blazor\\wwwroot\\images\\obrazekpasek.webp",
+      "PackagePath": "staticwebassets\\images\\obrazekpasek.webp"
+    },
+    {
+      "Id": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor\\Bio Blazor\\wwwroot\\images\\rezonans.jpeg",
+      "PackagePath": "staticwebassets\\images\\rezonans.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor\\Bio Blazor\\wwwroot\\kontakt.html",
+      "PackagePath": "staticwebassets\\kontakt.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Bio_Blazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Bio_Blazor.props",
+      "PackagePath": "build\\Bio_Blazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Bio_Blazor.props",
+      "PackagePath": "buildMultiTargeting\\Bio_Blazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Bio_Blazor.props",
+      "PackagePath": "buildTransitive\\Bio_Blazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
