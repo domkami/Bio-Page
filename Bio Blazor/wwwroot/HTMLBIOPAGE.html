@@ -161,6 +161,10 @@
 
         /* Media queries dla urządzeń mobilnych */
         @media (max-width: 768px) {
+            body {
+                overflow-x: hidden; /* Zapobiega przesuwaniu strony w poziomie */
+            }
+
             .image-banner {
                 font-size: 1.5rem; /* Mniejszy tekst na urządzeniach mobilnych */
                 height: 80px; /* Mniejszy pasek na górze */
@@ -191,6 +195,10 @@
 
         /* Media queries dla urządzeń bardzo małych (np. telefony w pionie) */
         @media (max-width: 480px) {
+            body {
+                overflow-x: hidden; /* Zapobiega przesuwaniu strony w poziomie */
+            }
+
             .image-banner {
                 font-size: 1.2rem; /* Dodatkowe zmniejszenie czcionki */
             }
@@ -199,6 +207,7 @@
                 padding: 20px; /* Mniejsze paddingi */
             }
         }
+
     </style>
 </head>
 <body>
