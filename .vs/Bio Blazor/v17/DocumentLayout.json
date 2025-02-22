@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{1AAEBCC7-65FE-4A8B-989D-A479196CF147}|Bio Blazor\\Bio Blazor.csproj|solutionrelative:bio blazor\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AAEBCC7-65FE-4A8B-989D-A479196CF147}|Bio Blazor\\Bio Blazor.csproj|c:\\users\\kamil\\onedrive\\desktop\\projekty visual\\bio blazor git\\bio blazor\\wwwroot\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{1AAEBCC7-65FE-4A8B-989D-A479196CF147}|Bio Blazor\\Bio Blazor.csproj|solutionrelative:bio blazor\\wwwroot\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1AAEBCC7-65FE-4A8B-989D-A479196CF147}|Bio Blazor\\Bio Blazor.csproj|c:\\users\\kamil\\onedrive\\desktop\\projekty visual\\bio blazor git\\bio blazor\\wwwroot\\kontakt.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1AAEBCC7-65FE-4A8B-989D-A479196CF147}|Bio Blazor\\Bio Blazor.csproj|solutionrelative:bio blazor\\wwwroot\\kontakt.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAEBCC7-65FE-4A8B-989D-A479196CF147}|Bio Blazor\\Bio Blazor.csproj|c:\\users\\kamil\\onedrive\\desktop\\projekty visual\\bio blazor git\\bio blazor\\wwwroot\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1AAEBCC7-65FE-4A8B-989D-A479196CF147}|Bio Blazor\\Bio Blazor.csproj|solutionrelative:bio blazor\\wwwroot\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1AAEBCC7-65FE-4A8B-989D-A479196CF147}|Bio Blazor\\Bio Blazor.csproj|c:\\users\\kamil\\onedrive\\desktop\\projekty visual\\bio blazor git\\bio blazor\\wwwroot\\dowiedz-sie-wiecej.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -64,7 +64,7 @@
               "RelativeDocumentMoniker": "Bio Blazor\\Components\\App.razor",
               "ToolTip": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\Components\\App.razor",
               "RelativeToolTip": "Bio Blazor\\Components\\App.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-22T15:59:54.923Z",
               "EditorCaption": ""
@@ -95,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "kontakt.html",
               "DocumentMoniker": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\kontakt.html",
               "RelativeDocumentMoniker": "Bio Blazor\\wwwroot\\kontakt.html",
@@ -144,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "bootstrap.min.css",
               "DocumentMoniker": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\bootstrap\\bootstrap.min.css",
               "RelativeDocumentMoniker": "Bio Blazor\\wwwroot\\bootstrap\\bootstrap.min.css",
@@ -152,8 +152,7 @@
               "RelativeToolTip": "Bio Blazor\\wwwroot\\bootstrap\\bootstrap.min.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-11T15:28:11.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T15:28:11.569Z"
             },
             {
               "$type": "Document",
