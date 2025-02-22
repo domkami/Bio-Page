@@ -37,6 +37,7 @@
             display: flex;
             flex-direction: column;
             justify-content: center;
+            padding-top: 150px; /* Ustawiamy tekst w odpowiednim miejscu */
         }
 
         /* Nagłówek */
@@ -49,13 +50,13 @@
         .image-banner {
             width: 100%;
             height: 100px;
-            background-image: url('images/obrazekpasek.webp'); /* Odwołanie do lokalnego obrazu */
+            background-image: url('images/obrazekpasek.webp');
             background-size: cover;
             background-position: center;
             border-radius: 10px;
             margin: 0;
             padding: 0;
-            position: absolute; /* Umieszczamy go na stałej pozycji w górnej części strony */
+            position: absolute;
             top: 0;
             left: 0;
             display: flex;
@@ -137,11 +138,66 @@
                     color: #1b5e20;
                 }
 
-
         /* Ustawienie napisu nad obrazkiem */
         .content {
             position: relative;
             z-index: 2;
+        }
+
+        /* Ustawienia zdjęcia w opisie */
+        .image-container {
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            width: 100%;
+        }
+
+        .image {
+            width: 100%;
+            height: auto;
+            max-width: 100%;
+            object-fit: cover;
+        }
+
+        /* Media queries dla urządzeń mobilnych */
+        @media (max-width: 768px) {
+            .image-banner {
+                font-size: 1.5rem; /* Mniejszy tekst na urządzeniach mobilnych */
+                height: 80px; /* Mniejszy pasek na górze */
+            }
+
+            h1 {
+                font-size: 2rem; /* Zmniejszenie rozmiaru nagłówka */
+            }
+
+            .about-title {
+                font-size: 2rem; /* Mniejszy rozmiar tytułu */
+            }
+
+            .about-description {
+                font-size: 1rem; /* Mniejszy tekst w opisie */
+                padding: 10px; /* Dodanie marginesu */
+            }
+
+            nav a {
+                font-size: 1rem; /* Mniejsza czcionka dla linków na urządzeniach mobilnych */
+                margin: 0 10px; /* Mniejsze odstępy między linkami */
+            }
+
+            .image-container img {
+                width: 100%; /* Dopasowanie obrazka do szerokości urządzenia */
+            }
+        }
+
+        /* Media queries dla urządzeń bardzo małych (np. telefony w pionie) */
+        @media (max-width: 480px) {
+            .image-banner {
+                font-size: 1.2rem; /* Dodatkowe zmniejszenie czcionki */
+            }
+
+            .container {
+                padding: 20px; /* Mniejsze paddingi */
+            }
         }
     </style>
 </head>
@@ -150,11 +206,6 @@
         <div class="image-banner">
             Energia Życia - Biorezonans
         </div>
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
         <nav>
             <a href="HTMLBIOPAGE.html">Strona Główna</a>
             <a href="dowiedz-sie-wiecej.html">Dowiedz się więcej</a>
@@ -164,9 +215,7 @@
 
         <!-- Sekcja O nas -->
         <div class="about-title">
-            <br /> O nas
-            <br />
-            <br />
+            O nas
         </div>
         <div class="about-description">
             Nasza firma, założona w 2025 roku przez dwóch pasjonatów medycyny alternatywnej, oferuje unikalne podejście do zdrowia i dobrostanu. Łączymy nowoczesny bio rezonans – metodę diagnostyki i leczenia opartą na analizie elektromagnetycznych fal ciała – z astroterapią, która harmonizuje energię ciała i umysłu przez pryzmat astrologicznych wskazówek. Dzięki temu oferujemy kompleksową opiekę, której celem jest równowaga między ciałem, duchem i emocjami. Nasze terapie są indywidualnie dopasowane do potrzeb każdego klienta, a ich efekty są zauważalne już po kilku sesjach. Wierzymy, że natura i wszechświat mają ogromny wpływ na nasze zdrowie, a my pomagamy odkrywać tę moc w sposób bezpieczny i skuteczny.
@@ -175,38 +224,14 @@
             <div class="image-container">
                 <img src="images/rezonans.jpeg" alt="Rezonans" class="image" />
             </div>
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
         </div>
-
-        <style>
-            .about-description {
-                position: relative;
-            }
-
-            .image-container {
-                display: flex;
-                justify-content: center;
-                align-items: flex-start;
-                width: 100%;
-            }
-
-            .image {
-                width: 100%;
-                height: auto;
-                max-width: 100%;
-                height: 100%;
-                object-fit: cover;
-            }
-        </style>
     </div>
 
     <div class="image-banner-bottom"></div> <!-- Pasek na dole -->
 </body>
 </html>
+
+
 
 
 
