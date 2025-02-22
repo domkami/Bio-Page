@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\Bio Blazor.csproj": {}
+    "C:\\Users\\kamil\\OneDrive\\Desktop\\Bio Blazor\\Bio Blazor\\Bio Blazor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\Bio Blazor.csproj": {
+    "C:\\Users\\kamil\\OneDrive\\Desktop\\Bio Blazor\\Bio Blazor\\Bio Blazor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\Bio Blazor.csproj",
+        "projectUniqueName": "C:\\Users\\kamil\\OneDrive\\Desktop\\Bio Blazor\\Bio Blazor\\Bio Blazor.csproj",
         "projectName": "Bio_Blazor",
-        "projectPath": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\Bio Blazor.csproj",
+        "projectPath": "C:\\Users\\kamil\\OneDrive\\Desktop\\Bio Blazor\\Bio Blazor\\Bio Blazor.csproj",
         "packagesPath": "C:\\Users\\kamil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\obj\\",
+        "outputPath": "C:\\Users\\kamil\\OneDrive\\Desktop\\Bio Blazor\\Bio Blazor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kamil\\AppData\\Roaming\\NuGet\\NuGet.Config",
