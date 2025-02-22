@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sPpKqGPQaTjDKrwLtdg+Xi4J1MWUCarAzGv6VAaiRZg=",
+  "Hash": "ZsflO2F4BAmmtQw9Y2XRl1JGB8V9ks74RTsnENvC+sA=",
   "Source": "Bio_Blazor",
   "BasePath": "_content/Bio_Blazor",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Bio_Blazor\\wwwroot",
       "Source": "Bio_Blazor",
-      "ContentRoot": "C:\\Users\\kamil\\OneDrive\\Desktop\\Bio Blazor\\Bio Blazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\",
       "BasePath": "_content/Bio_Blazor",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\kamil\\OneDrive\\Desktop\\Bio Blazor\\Bio Blazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Bio_Blazor.styles.css",
+      "Identity": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Bio_Blazor.styles.css",
       "SourceId": "Bio_Blazor",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\kamil\\OneDrive\\Desktop\\Bio Blazor\\Bio Blazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Bio_Blazor",
       "RelativePath": "Bio_Blazor.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\kamil\\OneDrive\\Desktop\\Bio Blazor\\Bio Blazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Bio_Blazor.styles.css"
+      "OriginalItemSpec": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Bio_Blazor.styles.css"
     },
     {
-      "Identity": "C:\\Users\\kamil\\OneDrive\\Desktop\\Bio Blazor\\Bio Blazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Bio_Blazor.bundle.scp.css",
+      "Identity": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Bio_Blazor.bundle.scp.css",
       "SourceId": "Bio_Blazor",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\kamil\\OneDrive\\Desktop\\Bio Blazor\\Bio Blazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Bio_Blazor",
       "RelativePath": "Bio_Blazor.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\kamil\\OneDrive\\Desktop\\Bio Blazor\\Bio Blazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Bio_Blazor.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Bio_Blazor.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\kamil\\OneDrive\\Desktop\\Bio Blazor\\Bio Blazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "Bio_Blazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\OneDrive\\Desktop\\Bio Blazor\\Bio Blazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\",
       "BasePath": "_content/Bio_Blazor",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\kamil\\OneDrive\\Desktop\\Bio Blazor\\Bio Blazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "Bio_Blazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\OneDrive\\Desktop\\Bio Blazor\\Bio Blazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\",
       "BasePath": "_content/Bio_Blazor",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kamil\\OneDrive\\Desktop\\Bio Blazor\\Bio Blazor\\wwwroot\\cennik.html",
+      "Identity": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\cennik.html",
       "SourceId": "Bio_Blazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\OneDrive\\Desktop\\Bio Blazor\\Bio Blazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\",
       "BasePath": "_content/Bio_Blazor",
       "RelativePath": "cennik.html",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\cennik.html"
     },
     {
-      "Identity": "C:\\Users\\kamil\\OneDrive\\Desktop\\Bio Blazor\\Bio Blazor\\wwwroot\\dowiedz-sie-wiecej.html",
+      "Identity": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\dowiedz-sie-wiecej.html",
       "SourceId": "Bio_Blazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\OneDrive\\Desktop\\Bio Blazor\\Bio Blazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\",
       "BasePath": "_content/Bio_Blazor",
       "RelativePath": "dowiedz-sie-wiecej.html",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\dowiedz-sie-wiecej.html"
     },
     {
-      "Identity": "C:\\Users\\kamil\\OneDrive\\Desktop\\Bio Blazor\\Bio Blazor\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\favicon.png",
       "SourceId": "Bio_Blazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\OneDrive\\Desktop\\Bio Blazor\\Bio Blazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\",
       "BasePath": "_content/Bio_Blazor",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\kamil\\OneDrive\\Desktop\\Bio Blazor\\Bio Blazor\\wwwroot\\HTMLBIOPAGE.html",
+      "Identity": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\HTMLBIOPAGE.html",
       "SourceId": "Bio_Blazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\OneDrive\\Desktop\\Bio Blazor\\Bio Blazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\",
       "BasePath": "_content/Bio_Blazor",
       "RelativePath": "HTMLBIOPAGE.html",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\HTMLBIOPAGE.html"
     },
     {
-      "Identity": "C:\\Users\\kamil\\OneDrive\\Desktop\\Bio Blazor\\Bio Blazor\\wwwroot\\images\\obrazekpasek.webp",
+      "Identity": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\images\\obrazekpasek.webp",
       "SourceId": "Bio_Blazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\OneDrive\\Desktop\\Bio Blazor\\Bio Blazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\",
       "BasePath": "_content/Bio_Blazor",
       "RelativePath": "images/obrazekpasek.webp",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\images\\obrazekpasek.webp"
     },
     {
-      "Identity": "C:\\Users\\kamil\\OneDrive\\Desktop\\Bio Blazor\\Bio Blazor\\wwwroot\\images\\rezonans.jpeg",
+      "Identity": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\images\\rezonans.jpeg",
       "SourceId": "Bio_Blazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\OneDrive\\Desktop\\Bio Blazor\\Bio Blazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\",
       "BasePath": "_content/Bio_Blazor",
       "RelativePath": "images/rezonans.jpeg",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\images\\rezonans.jpeg"
     },
     {
-      "Identity": "C:\\Users\\kamil\\OneDrive\\Desktop\\Bio Blazor\\Bio Blazor\\wwwroot\\kontakt.html",
+      "Identity": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\kontakt.html",
       "SourceId": "Bio_Blazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\OneDrive\\Desktop\\Bio Blazor\\Bio Blazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\",
       "BasePath": "_content/Bio_Blazor",
       "RelativePath": "kontakt.html",
       "AssetKind": "All",
