@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1AAEBCC7-65FE-4A8B-989D-A479196CF147}|Bio Blazor\\Bio Blazor.csproj|c:\\users\\kamil\\onedrive\\desktop\\projekty visual\\bio blazor git\\bio blazor\\wwwroot\\cennik.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AAEBCC7-65FE-4A8B-989D-A479196CF147}|Bio Blazor\\Bio Blazor.csproj|solutionrelative:bio blazor\\wwwroot\\cennik.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1AAEBCC7-65FE-4A8B-989D-A479196CF147}|Bio Blazor\\Bio Blazor.csproj|c:\\users\\kamil\\onedrive\\desktop\\projekty visual\\bio blazor git\\bio blazor\\wwwroot\\kontakt.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1AAEBCC7-65FE-4A8B-989D-A479196CF147}|Bio Blazor\\Bio Blazor.csproj|solutionrelative:bio blazor\\wwwroot\\kontakt.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1AAEBCC7-65FE-4A8B-989D-A479196CF147}|Bio Blazor\\Bio Blazor.csproj|c:\\users\\kamil\\onedrive\\desktop\\projekty visual\\bio blazor git\\bio blazor\\wwwroot\\dowiedz-sie-wiecej.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1AAEBCC7-65FE-4A8B-989D-A479196CF147}|Bio Blazor\\Bio Blazor.csproj|solutionrelative:bio blazor\\wwwroot\\dowiedz-sie-wiecej.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1AAEBCC7-65FE-4A8B-989D-A479196CF147}|Bio Blazor\\Bio Blazor.csproj|c:\\users\\kamil\\onedrive\\desktop\\projekty visual\\bio blazor git\\bio blazor\\wwwroot\\cennik.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1AAEBCC7-65FE-4A8B-989D-A479196CF147}|Bio Blazor\\Bio Blazor.csproj|solutionrelative:bio blazor\\wwwroot\\cennik.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1AAEBCC7-65FE-4A8B-989D-A479196CF147}|Bio Blazor\\Bio Blazor.csproj|c:\\users\\kamil\\onedrive\\desktop\\projekty visual\\bio blazor git\\bio blazor\\wwwroot\\htmlbiopage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -26,44 +26,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "kontakt.html",
               "DocumentMoniker": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\kontakt.html",
               "RelativeDocumentMoniker": "Bio Blazor\\wwwroot\\kontakt.html",
               "ToolTip": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\kontakt.html",
               "RelativeToolTip": "Bio Blazor\\wwwroot\\kontakt.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ4AAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAFwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-03-08T15:11:42.23Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "dowiedz-sie-wiecej.html",
               "DocumentMoniker": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\dowiedz-sie-wiecej.html",
               "RelativeDocumentMoniker": "Bio Blazor\\wwwroot\\dowiedz-sie-wiecej.html",
               "ToolTip": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\dowiedz-sie-wiecej.html",
               "RelativeToolTip": "Bio Blazor\\wwwroot\\dowiedz-sie-wiecej.html",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAqwGEAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAFwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-08T15:11:02.089Z"
+              "WhenOpened": "2025-03-08T15:11:02.089Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "cennik.html",
               "DocumentMoniker": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\cennik.html",
               "RelativeDocumentMoniker": "Bio Blazor\\wwwroot\\cennik.html",
               "ToolTip": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\cennik.html",
               "RelativeToolTip": "Bio Blazor\\wwwroot\\cennik.html",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAAFwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-02-22T17:06:50.173Z"
+              "WhenOpened": "2025-02-22T17:06:50.173Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -73,9 +75,10 @@
               "RelativeDocumentMoniker": "Bio Blazor\\wwwroot\\HTMLBIOPAGE.html",
               "ToolTip": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\HTMLBIOPAGE.html",
               "RelativeToolTip": "Bio Blazor\\wwwroot\\HTMLBIOPAGE.html",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAgwGEAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAFwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-02-22T17:06:05.112Z"
+              "WhenOpened": "2025-02-22T17:06:05.112Z",
+              "EditorCaption": ""
             }
           ]
         }
