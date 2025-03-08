@@ -66,8 +66,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>ke7yjkkk6n</Fingerprint>
-      <Integrity>BKNvzY79ZIHIgqXCFnkrPN8hLWp1C90OfuaThPG+uDo=</Integrity>
+      <Fingerprint>e7d7g98cam</Fingerprint>
+      <Integrity>mpL0eGdHkvV401lG8rJsgN3nc7za/Fo3xF1Ac28pTmk=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cennik.html'))</OriginalItemSpec>
@@ -84,8 +84,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>i3etu53j9f</Fingerprint>
-      <Integrity>nu77M44z+ylxPZwB7ZKxsk2kVBczoJavO1bGnHPX1zY=</Integrity>
+      <Fingerprint>st7m5wjcjl</Fingerprint>
+      <Integrity>IKZUzpMitYJ6KM5FsOLneWw8miRiRc+AQ5krIbOSPoQ=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\dowiedz-sie-wiecej.html'))</OriginalItemSpec>
@@ -120,8 +120,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>iibhrk19z2</Fingerprint>
-      <Integrity>dpCQz3N8K1OjignCjqXzfY1LQmBGldzLkb+LlQ233sg=</Integrity>
+      <Fingerprint>vwtyt05iyo</Fingerprint>
+      <Integrity>EScCmSb1dyP5yL+Iy3bs/5GtFiFlMKtzXTDizlXbN+U=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\HTMLBIOPAGE.html'))</OriginalItemSpec>
@@ -174,8 +174,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>v340tvayz0</Fingerprint>
-      <Integrity>y00P90TZi4Yvbaamq0bsVARyEtVYFXyk1+lDHIp171M=</Integrity>
+      <Fingerprint>hyp10yn750</Fingerprint>
+      <Integrity>V84xd5W526+X22mQdoSRzH8O48pXHrjg7kjY6LjX+uQ=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\kontakt.html'))</OriginalItemSpec>

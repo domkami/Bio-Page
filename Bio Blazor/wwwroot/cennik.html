@@ -79,20 +79,37 @@
         /* Nawigacja */
         nav {
             margin-top: 20px;
-            position: relative; /* Dodane */
-            z-index: 1; /* Dodane */
+            display: flex;
+            justify-content: center; /* Wyśrodkowanie linków */
+            align-items: center;
         }
 
             nav a {
                 margin: 0 15px;
                 color: #388e3c;
-                font-size: 1.2rem;
+                font-size: 1.2rem; /* Rozmiar czcionki dostosowany */
                 text-decoration: none;
+                padding: 10px 15px; /* Dodano odstępy wokół tekstu */
+                transition: color 0.3s ease; /* Łagodne przejście koloru */
             }
 
                 nav a:hover {
                     color: #1b5e20;
                 }
+
+        /* Responsywność - poprawka nawigacji */
+        @media (max-width: 768px) {
+            nav {
+                flex-direction: row; /* Utrzymanie układu poziomego na mniejszych ekranach */
+                justify-content: space-around; /* Rozłożenie elementów równomiernie */
+            }
+
+                nav a {
+                    font-size: 1.2rem; /* Dopasowanie rozmiaru czcionki */
+                    padding: 5px 10px; /* Zmniejszenie odstępów na małych ekranach */
+                }
+        }
+
 
         /* Responsywność - poprawka nawigacji */
         @media (max-width: 768px) {

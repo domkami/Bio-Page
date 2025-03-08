@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ykjiEsUQcbOdNNmY4uk+8yDfwDD3rIYcYPRrR60Zm+w=",
+  "Hash": "bdl3PBCIdmYdraohxPdh6LKl5RjIk9iXOG9Y6Qn/gPM=",
   "Source": "Bio_Blazor",
   "BasePath": "_content/Bio_Blazor",
   "Mode": "Default",
@@ -115,8 +115,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ke7yjkkk6n",
-      "Integrity": "BKNvzY79ZIHIgqXCFnkrPN8hLWp1C90OfuaThPG+uDo=",
+      "Fingerprint": "e7d7g98cam",
+      "Integrity": "mpL0eGdHkvV401lG8rJsgN3nc7za/Fo3xF1Ac28pTmk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\cennik.html"
@@ -136,8 +136,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "i3etu53j9f",
-      "Integrity": "nu77M44z+ylxPZwB7ZKxsk2kVBczoJavO1bGnHPX1zY=",
+      "Fingerprint": "st7m5wjcjl",
+      "Integrity": "IKZUzpMitYJ6KM5FsOLneWw8miRiRc+AQ5krIbOSPoQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\dowiedz-sie-wiecej.html"
@@ -178,8 +178,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "iibhrk19z2",
-      "Integrity": "dpCQz3N8K1OjignCjqXzfY1LQmBGldzLkb+LlQ233sg=",
+      "Fingerprint": "vwtyt05iyo",
+      "Integrity": "EScCmSb1dyP5yL+Iy3bs/5GtFiFlMKtzXTDizlXbN+U=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\HTMLBIOPAGE.html"
@@ -241,8 +241,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "v340tvayz0",
-      "Integrity": "y00P90TZi4Yvbaamq0bsVARyEtVYFXyk1+lDHIp171M=",
+      "Fingerprint": "hyp10yn750",
+      "Integrity": "V84xd5W526+X22mQdoSRzH8O48pXHrjg7kjY6LjX+uQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\kontakt.html"
@@ -578,6 +578,51 @@
       ]
     },
     {
+      "Route": "cennik.e7d7g98cam.html",
+      "AssetFile": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\cennik.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10944"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mpL0eGdHkvV401lG8rJsgN3nc7za/Fo3xF1Ac28pTmk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 15:57:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e7d7g98cam"
+        },
+        {
+          "Name": "label",
+          "Value": "cennik.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mpL0eGdHkvV401lG8rJsgN3nc7za/Fo3xF1Ac28pTmk="
+        }
+      ]
+    },
+    {
       "Route": "cennik.html",
       "AssetFile": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\cennik.html",
       "Selectors": [],
@@ -588,7 +633,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10173"
+          "Value": "10944"
         },
         {
           "Name": "Content-Type",
@@ -596,11 +641,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BKNvzY79ZIHIgqXCFnkrPN8hLWp1C90OfuaThPG+uDo=\""
+          "Value": "\"mpL0eGdHkvV401lG8rJsgN3nc7za/Fo3xF1Ac28pTmk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 15:47:19 GMT"
+          "Value": "Sat, 08 Mar 2025 15:57:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -610,52 +655,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BKNvzY79ZIHIgqXCFnkrPN8hLWp1C90OfuaThPG+uDo="
-        }
-      ]
-    },
-    {
-      "Route": "cennik.ke7yjkkk6n.html",
-      "AssetFile": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\cennik.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "10173"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"BKNvzY79ZIHIgqXCFnkrPN8hLWp1C90OfuaThPG+uDo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 15:47:19 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ke7yjkkk6n"
-        },
-        {
-          "Name": "label",
-          "Value": "cennik.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-BKNvzY79ZIHIgqXCFnkrPN8hLWp1C90OfuaThPG+uDo="
+          "Value": "sha256-mpL0eGdHkvV401lG8rJsgN3nc7za/Fo3xF1Ac28pTmk="
         }
       ]
     },
@@ -670,7 +670,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8476"
+          "Value": "8793"
         },
         {
           "Name": "Content-Type",
@@ -678,11 +678,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nu77M44z+ylxPZwB7ZKxsk2kVBczoJavO1bGnHPX1zY=\""
+          "Value": "\"IKZUzpMitYJ6KM5FsOLneWw8miRiRc+AQ5krIbOSPoQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 15:11:21 GMT"
+          "Value": "Sat, 08 Mar 2025 16:02:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -692,12 +692,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-nu77M44z+ylxPZwB7ZKxsk2kVBczoJavO1bGnHPX1zY="
+          "Value": "sha256-IKZUzpMitYJ6KM5FsOLneWw8miRiRc+AQ5krIbOSPoQ="
         }
       ]
     },
     {
-      "Route": "dowiedz-sie-wiecej.i3etu53j9f.html",
+      "Route": "dowiedz-sie-wiecej.st7m5wjcjl.html",
       "AssetFile": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\dowiedz-sie-wiecej.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -707,7 +707,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8476"
+          "Value": "8793"
         },
         {
           "Name": "Content-Type",
@@ -715,11 +715,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nu77M44z+ylxPZwB7ZKxsk2kVBczoJavO1bGnHPX1zY=\""
+          "Value": "\"IKZUzpMitYJ6KM5FsOLneWw8miRiRc+AQ5krIbOSPoQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 15:11:21 GMT"
+          "Value": "Sat, 08 Mar 2025 16:02:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -729,7 +729,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "i3etu53j9f"
+          "Value": "st7m5wjcjl"
         },
         {
           "Name": "label",
@@ -737,7 +737,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-nu77M44z+ylxPZwB7ZKxsk2kVBczoJavO1bGnHPX1zY="
+          "Value": "sha256-IKZUzpMitYJ6KM5FsOLneWw8miRiRc+AQ5krIbOSPoQ="
         }
       ]
     },
@@ -834,7 +834,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11340"
+          "Value": "11657"
         },
         {
           "Name": "Content-Type",
@@ -842,11 +842,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"dpCQz3N8K1OjignCjqXzfY1LQmBGldzLkb+LlQ233sg=\""
+          "Value": "\"EScCmSb1dyP5yL+Iy3bs/5GtFiFlMKtzXTDizlXbN+U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 15:44:18 GMT"
+          "Value": "Sat, 08 Mar 2025 16:02:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -856,12 +856,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-dpCQz3N8K1OjignCjqXzfY1LQmBGldzLkb+LlQ233sg="
+          "Value": "sha256-EScCmSb1dyP5yL+Iy3bs/5GtFiFlMKtzXTDizlXbN+U="
         }
       ]
     },
     {
-      "Route": "HTMLBIOPAGE.iibhrk19z2.html",
+      "Route": "HTMLBIOPAGE.vwtyt05iyo.html",
       "AssetFile": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\HTMLBIOPAGE.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -871,7 +871,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11340"
+          "Value": "11657"
         },
         {
           "Name": "Content-Type",
@@ -879,11 +879,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"dpCQz3N8K1OjignCjqXzfY1LQmBGldzLkb+LlQ233sg=\""
+          "Value": "\"EScCmSb1dyP5yL+Iy3bs/5GtFiFlMKtzXTDizlXbN+U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 15:44:18 GMT"
+          "Value": "Sat, 08 Mar 2025 16:02:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -893,7 +893,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "iibhrk19z2"
+          "Value": "vwtyt05iyo"
         },
         {
           "Name": "label",
@@ -901,7 +901,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-dpCQz3N8K1OjignCjqXzfY1LQmBGldzLkb+LlQ233sg="
+          "Value": "sha256-EScCmSb1dyP5yL+Iy3bs/5GtFiFlMKtzXTDizlXbN+U="
         }
       ]
     },
@@ -1080,7 +1080,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4763"
+          "Value": "5079"
         },
         {
           "Name": "Content-Type",
@@ -1088,11 +1088,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"y00P90TZi4Yvbaamq0bsVARyEtVYFXyk1+lDHIp171M=\""
+          "Value": "\"V84xd5W526+X22mQdoSRzH8O48pXHrjg7kjY6LjX+uQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 15:11:50 GMT"
+          "Value": "Sat, 08 Mar 2025 16:03:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1102,12 +1102,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-y00P90TZi4Yvbaamq0bsVARyEtVYFXyk1+lDHIp171M="
+          "Value": "sha256-V84xd5W526+X22mQdoSRzH8O48pXHrjg7kjY6LjX+uQ="
         }
       ]
     },
     {
-      "Route": "kontakt.v340tvayz0.html",
+      "Route": "kontakt.hyp10yn750.html",
       "AssetFile": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\kontakt.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1117,7 +1117,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4763"
+          "Value": "5079"
         },
         {
           "Name": "Content-Type",
@@ -1125,11 +1125,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"y00P90TZi4Yvbaamq0bsVARyEtVYFXyk1+lDHIp171M=\""
+          "Value": "\"V84xd5W526+X22mQdoSRzH8O48pXHrjg7kjY6LjX+uQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 15:11:50 GMT"
+          "Value": "Sat, 08 Mar 2025 16:03:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1139,7 +1139,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "v340tvayz0"
+          "Value": "hyp10yn750"
         },
         {
           "Name": "label",
@@ -1147,7 +1147,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-y00P90TZi4Yvbaamq0bsVARyEtVYFXyk1+lDHIp171M="
+          "Value": "sha256-V84xd5W526+X22mQdoSRzH8O48pXHrjg7kjY6LjX+uQ="
         }
       ]
     }
