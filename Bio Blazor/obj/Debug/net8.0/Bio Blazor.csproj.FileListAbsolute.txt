@@ -86,3 +86,7 @@ C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor Git\Bio Blazor\obj\De
 C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor Git\Bio Blazor\obj\Debug\net8.0\Bio_Blazor.pdb
 C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor Git\Bio Blazor\obj\Debug\net8.0\Bio Blazor.genruntimeconfig.cache
 C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor Git\Bio Blazor\obj\Debug\net8.0\ref\Bio_Blazor.dll
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor Git\Bio Blazor\bin\Debug\net8.0\Bio_Blazor.staticwebassets.endpoints.json
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor Git\Bio Blazor\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor Git\Bio Blazor\obj\Debug\net8.0\staticwebassets\msbuild.Bio_Blazor.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\kamil\OneDrive\Desktop\Projekty Visual\Bio Blazor Git\Bio Blazor\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

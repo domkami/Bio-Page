@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ZsflO2F4BAmmtQw9Y2XRl1JGB8V9ks74RTsnENvC+sA=",
+  "Hash": "iL45eHrFgGYaNdo+bGZJgXLxFieina3rq1gR/paVJ/Y=",
   "Source": "Bio_Blazor",
   "BasePath": "_content/Bio_Blazor",
   "Mode": "Default",
@@ -22,7 +22,7 @@
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Bio_Blazor",
-      "RelativePath": "Bio_Blazor.styles.css",
+      "RelativePath": "Bio_Blazor#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Primary",
@@ -31,6 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "4gde8kj2j5",
+      "Integrity": "bDyif+XLlNTICfkB7HLnVEmUD1SI7Am/vnWSSjI54D8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Bio_Blazor.styles.css"
@@ -41,7 +43,7 @@
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Bio_Blazor",
-      "RelativePath": "Bio_Blazor.bundle.scp.css",
+      "RelativePath": "Bio_Blazor#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Primary",
@@ -50,6 +52,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "4gde8kj2j5",
+      "Integrity": "bDyif+XLlNTICfkB7HLnVEmUD1SI7Am/vnWSSjI54D8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Bio_Blazor.bundle.scp.css"
@@ -60,15 +64,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\",
       "BasePath": "_content/Bio_Blazor",
-      "RelativePath": "bootstrap/bootstrap.min.css",
+      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "bpk8xqwxhs",
+      "Integrity": "z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
@@ -79,15 +85,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\",
       "BasePath": "_content/Bio_Blazor",
-      "RelativePath": "bootstrap/bootstrap.min.css.map",
+      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
@@ -98,15 +106,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\",
       "BasePath": "_content/Bio_Blazor",
-      "RelativePath": "cennik.html",
+      "RelativePath": "cennik#[.{fingerprint}]?.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "h2sqy1rk9k",
+      "Integrity": "mcZxdTtNdEVCiJ95Qs49Qr81z6ayDgaUUMFhVmBkxYM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\cennik.html"
@@ -117,15 +127,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\",
       "BasePath": "_content/Bio_Blazor",
-      "RelativePath": "dowiedz-sie-wiecej.html",
+      "RelativePath": "dowiedz-sie-wiecej#[.{fingerprint}]?.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "tpdswl4i3k",
+      "Integrity": "cYiXjRdQpIlKUmd10p68N33LbT9xNK6+bBHxhm3VfVQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\dowiedz-sie-wiecej.html"
@@ -136,15 +148,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\",
       "BasePath": "_content/Bio_Blazor",
-      "RelativePath": "favicon.png",
+      "RelativePath": "favicon#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "p7srtr6066",
+      "Integrity": "lbDycic5p1c1ZPkITKyBImPR2p1/AbiIrJKDFGg4M5w=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.png"
@@ -155,15 +169,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\",
       "BasePath": "_content/Bio_Blazor",
-      "RelativePath": "HTMLBIOPAGE.html",
+      "RelativePath": "HTMLBIOPAGE#[.{fingerprint}]?.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "8t9etvaq94",
+      "Integrity": "1J1y0zY3uyjN32tLHMJ8LoPDJN9BrczK1Lcbd3wsSck=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\HTMLBIOPAGE.html"
@@ -174,15 +190,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\",
       "BasePath": "_content/Bio_Blazor",
-      "RelativePath": "images/obrazekpasek.webp",
+      "RelativePath": "images/obrazekpasek#[.{fingerprint}]?.webp",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "wp9ra7cx4u",
+      "Integrity": "DNA6pgE1reun2YXyLtLgF4IuaZQWhaYbhqH4G3CqqGI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\obrazekpasek.webp"
@@ -193,15 +211,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\",
       "BasePath": "_content/Bio_Blazor",
-      "RelativePath": "images/rezonans.jpeg",
+      "RelativePath": "images/rezonans#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "bmqwx83vpb",
+      "Integrity": "wx9W11jS1woRuOhpz6FVl+McT9wYSnjws9lDxo5RsdM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\rezonans.jpeg"
@@ -212,18 +232,924 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\",
       "BasePath": "_content/Bio_Blazor",
-      "RelativePath": "kontakt.html",
+      "RelativePath": "kontakt#[.{fingerprint}]?.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "he8xo7f5hk",
+      "Integrity": "N5PMCX0T80uOb5/LnGiWfQ9HZZrST4DIKcV3EFn6TYM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\kontakt.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Bio_Blazor.4gde8kj2j5.bundle.scp.css",
+      "AssetFile": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Bio_Blazor.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5903"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bDyif+XLlNTICfkB7HLnVEmUD1SI7Am/vnWSSjI54D8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 12:12:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4gde8kj2j5"
+        },
+        {
+          "Name": "label",
+          "Value": "Bio_Blazor.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bDyif+XLlNTICfkB7HLnVEmUD1SI7Am/vnWSSjI54D8="
+        }
+      ]
+    },
+    {
+      "Route": "Bio_Blazor.4gde8kj2j5.styles.css",
+      "AssetFile": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Bio_Blazor.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5903"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bDyif+XLlNTICfkB7HLnVEmUD1SI7Am/vnWSSjI54D8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 12:12:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4gde8kj2j5"
+        },
+        {
+          "Name": "label",
+          "Value": "Bio_Blazor.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bDyif+XLlNTICfkB7HLnVEmUD1SI7Am/vnWSSjI54D8="
+        }
+      ]
+    },
+    {
+      "Route": "Bio_Blazor.bundle.scp.css",
+      "AssetFile": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Bio_Blazor.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5903"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bDyif+XLlNTICfkB7HLnVEmUD1SI7Am/vnWSSjI54D8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 12:12:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bDyif+XLlNTICfkB7HLnVEmUD1SI7Am/vnWSSjI54D8="
+        }
+      ]
+    },
+    {
+      "Route": "Bio_Blazor.styles.css",
+      "AssetFile": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Bio_Blazor.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5903"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bDyif+XLlNTICfkB7HLnVEmUD1SI7Am/vnWSSjI54D8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 12:12:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bDyif+XLlNTICfkB7HLnVEmUD1SI7Am/vnWSSjI54D8="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.bpk8xqwxhs.css",
+      "AssetFile": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 11:49:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bpk8xqwxhs"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 11:49:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 11:49:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 11:49:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "cennik.h2sqy1rk9k.html",
+      "AssetFile": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\cennik.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9403"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mcZxdTtNdEVCiJ95Qs49Qr81z6ayDgaUUMFhVmBkxYM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 11:37:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h2sqy1rk9k"
+        },
+        {
+          "Name": "label",
+          "Value": "cennik.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mcZxdTtNdEVCiJ95Qs49Qr81z6ayDgaUUMFhVmBkxYM="
+        }
+      ]
+    },
+    {
+      "Route": "cennik.html",
+      "AssetFile": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\cennik.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9403"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mcZxdTtNdEVCiJ95Qs49Qr81z6ayDgaUUMFhVmBkxYM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 11:37:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mcZxdTtNdEVCiJ95Qs49Qr81z6ayDgaUUMFhVmBkxYM="
+        }
+      ]
+    },
+    {
+      "Route": "dowiedz-sie-wiecej.html",
+      "AssetFile": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\dowiedz-sie-wiecej.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8310"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cYiXjRdQpIlKUmd10p68N33LbT9xNK6+bBHxhm3VfVQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 15:30:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cYiXjRdQpIlKUmd10p68N33LbT9xNK6+bBHxhm3VfVQ="
+        }
+      ]
+    },
+    {
+      "Route": "dowiedz-sie-wiecej.tpdswl4i3k.html",
+      "AssetFile": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\dowiedz-sie-wiecej.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8310"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cYiXjRdQpIlKUmd10p68N33LbT9xNK6+bBHxhm3VfVQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 15:30:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tpdswl4i3k"
+        },
+        {
+          "Name": "label",
+          "Value": "dowiedz-sie-wiecej.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cYiXjRdQpIlKUmd10p68N33LbT9xNK6+bBHxhm3VfVQ="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.p7srtr6066.png",
+      "AssetFile": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29939"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lbDycic5p1c1ZPkITKyBImPR2p1/AbiIrJKDFGg4M5w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 16:51:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p7srtr6066"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lbDycic5p1c1ZPkITKyBImPR2p1/AbiIrJKDFGg4M5w="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.png",
+      "AssetFile": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29939"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lbDycic5p1c1ZPkITKyBImPR2p1/AbiIrJKDFGg4M5w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 16:51:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lbDycic5p1c1ZPkITKyBImPR2p1/AbiIrJKDFGg4M5w="
+        }
+      ]
+    },
+    {
+      "Route": "HTMLBIOPAGE.8t9etvaq94.html",
+      "AssetFile": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\HTMLBIOPAGE.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9850"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1J1y0zY3uyjN32tLHMJ8LoPDJN9BrczK1Lcbd3wsSck=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 12:29:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8t9etvaq94"
+        },
+        {
+          "Name": "label",
+          "Value": "HTMLBIOPAGE.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1J1y0zY3uyjN32tLHMJ8LoPDJN9BrczK1Lcbd3wsSck="
+        }
+      ]
+    },
+    {
+      "Route": "HTMLBIOPAGE.html",
+      "AssetFile": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\HTMLBIOPAGE.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9850"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1J1y0zY3uyjN32tLHMJ8LoPDJN9BrczK1Lcbd3wsSck=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 12:29:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1J1y0zY3uyjN32tLHMJ8LoPDJN9BrczK1Lcbd3wsSck="
+        }
+      ]
+    },
+    {
+      "Route": "images/obrazekpasek.webp",
+      "AssetFile": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\images\\obrazekpasek.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "375738"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DNA6pgE1reun2YXyLtLgF4IuaZQWhaYbhqH4G3CqqGI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Feb 2025 20:12:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DNA6pgE1reun2YXyLtLgF4IuaZQWhaYbhqH4G3CqqGI="
+        }
+      ]
+    },
+    {
+      "Route": "images/obrazekpasek.wp9ra7cx4u.webp",
+      "AssetFile": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\images\\obrazekpasek.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "375738"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DNA6pgE1reun2YXyLtLgF4IuaZQWhaYbhqH4G3CqqGI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Feb 2025 20:12:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wp9ra7cx4u"
+        },
+        {
+          "Name": "label",
+          "Value": "images/obrazekpasek.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DNA6pgE1reun2YXyLtLgF4IuaZQWhaYbhqH4G3CqqGI="
+        }
+      ]
+    },
+    {
+      "Route": "images/rezonans.bmqwx83vpb.jpeg",
+      "AssetFile": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\images\\rezonans.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "236105"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wx9W11jS1woRuOhpz6FVl+McT9wYSnjws9lDxo5RsdM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 21:08:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bmqwx83vpb"
+        },
+        {
+          "Name": "label",
+          "Value": "images/rezonans.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wx9W11jS1woRuOhpz6FVl+McT9wYSnjws9lDxo5RsdM="
+        }
+      ]
+    },
+    {
+      "Route": "images/rezonans.jpeg",
+      "AssetFile": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\images\\rezonans.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "236105"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wx9W11jS1woRuOhpz6FVl+McT9wYSnjws9lDxo5RsdM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 21:08:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wx9W11jS1woRuOhpz6FVl+McT9wYSnjws9lDxo5RsdM="
+        }
+      ]
+    },
+    {
+      "Route": "kontakt.he8xo7f5hk.html",
+      "AssetFile": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\kontakt.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5081"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N5PMCX0T80uOb5/LnGiWfQ9HZZrST4DIKcV3EFn6TYM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 15:31:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "he8xo7f5hk"
+        },
+        {
+          "Name": "label",
+          "Value": "kontakt.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N5PMCX0T80uOb5/LnGiWfQ9HZZrST4DIKcV3EFn6TYM="
+        }
+      ]
+    },
+    {
+      "Route": "kontakt.html",
+      "AssetFile": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\kontakt.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5081"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N5PMCX0T80uOb5/LnGiWfQ9HZZrST4DIKcV3EFn6TYM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 15:31:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N5PMCX0T80uOb5/LnGiWfQ9HZZrST4DIKcV3EFn6TYM="
+        }
+      ]
     }
   ]
 }

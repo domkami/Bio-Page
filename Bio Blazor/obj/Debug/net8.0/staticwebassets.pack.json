@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Bio_Blazor.bundle.scp.css",
-      "PackagePath": "staticwebassets\\Bio_Blazor.bundle.scp.css"
+      "PackagePath": "staticwebassets\\Bio_Blazor.4gde8kj2j5.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\HTMLBIOPAGE.html",
@@ -39,6 +39,10 @@
     {
       "Id": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\kontakt.html",
       "PackagePath": "staticwebassets\\kontakt.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Bio_Blazor.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Bio_Blazor.Microsoft.AspNetCore.StaticWebAssets.props",

@@ -37,13 +37,7 @@
             display: flex;
             flex-direction: column;
             justify-content: center;
-            padding-top: 150px; /* Ustawiamy tekst w odpowiednim miejscu */
-        }
-
-        /* Nagłówek */
-        h1 {
-            color: #1b5e20;
-            font-size: 2.5rem;
+            padding-top: 150px;
         }
 
         /* Pasek ze zdjęciem na górze */
@@ -114,37 +108,6 @@
             text-align: justify;
         }
 
-        .feature-box h3 {
-            color: #388e3c;
-            margin-bottom: 10px;
-        }
-
-        .feature-box p {
-            color: #000;
-        }
-
-        /* Link do strony głównej */
-        .home-link {
-            margin-top: 20px;
-            font-size: 1.1rem;
-        }
-
-            .home-link a {
-                text-decoration: none;
-                color: #388e3c;
-            }
-
-                .home-link a:hover {
-                    color: #1b5e20;
-                }
-
-        /* Ustawienie napisu nad obrazkiem */
-        .content {
-            position: relative;
-            z-index: 2;
-        }
-
-        /* Ustawienia zdjęcia w opisie */
         .image-container {
             display: flex;
             justify-content: center;
@@ -157,6 +120,95 @@
             height: auto;
             max-width: 100%;
             object-fit: cover;
+        }
+
+        /* Baner cookie */
+        .cookie-banner {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            background: rgba(0, 0, 0, 0.8);
+            color: white;
+            padding: 15px;
+            text-align: center;
+            display: none;
+        }
+
+
+            .cookie-banner button {
+                background: #4caf50;
+                color: white;
+                border: none;
+                padding: 10px 20px;
+                margin-left: 10px;
+                cursor: pointer;
+            }
+        /* Przycisk Polityka prywatności */
+        .privacy-policy {
+            background: #4caf50;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            margin-left: 10px;
+            cursor: pointer;
+            font-size: 1rem;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+
+            .privacy-policy:hover {
+                background-color: #388e3c;
+            }
+
+        /* Modal */
+        .privacy-policy-modal {
+            display: none; /* Ukryj modal domyślnie */
+            position: fixed;
+            z-index: 1; /* Ustawienie na wierzchu */
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5); /* Przezroczyste tło */
+            padding-top: 60px; /* Odstęp od góry */
+            text-align: center;
+        }
+
+        .privacy-policy-content {
+            background-color: #fff;
+            margin: 5% auto;
+            padding: 20px;
+            border-radius: 10px;
+            width: 80%;
+            max-width: 600px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            position: relative;
+        }
+
+        .close {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            font-size: 2rem;
+            color: #333;
+            cursor: pointer;
+        }
+
+            .close:hover {
+                color: #4caf50;
+            }
+
+        h2 {
+            font-size: 1.5rem;
+            color: #333;
+            margin-bottom: 15px;
+        }
+
+        p {
+            font-size: 1rem;
+            color: #555;
+            line-height: 1.5;
         }
 
     </style>
@@ -173,21 +225,69 @@
             <a href="kontakt.html">Kontakt</a>
         </nav>
 
-        <!-- Sekcja O nas -->
-        <div class="about-title">
-            O nas
-        </div>
+        <div class="about-title">O nas</div>
         <div class="about-description">
             Nasza firma, założona w 2025 roku przez dwóch pasjonatów medycyny alternatywnej, oferuje unikalne podejście do zdrowia i dobrostanu. Łączymy nowoczesny bio rezonans – metodę diagnostyki i leczenia opartą na analizie elektromagnetycznych fal ciała – z astroterapią, która harmonizuje energię ciała i umysłu przez pryzmat astrologicznych wskazówek. Dzięki temu oferujemy kompleksową opiekę, której celem jest równowaga między ciałem, duchem i emocjami. Nasze terapie są indywidualnie dopasowane do potrzeb każdego klienta, a ich efekty są zauważalne już po kilku sesjach. Wierzymy, że natura i wszechświat mają ogromny wpływ na nasze zdrowie, a my pomagamy odkrywać tę moc w sposób bezpieczny i skuteczny.
             <br />
             <br />
+
             <div class="image-container">
                 <img src="images/rezonans.jpeg" alt="Rezonans" class="image" />
             </div>
         </div>
     </div>
+    <div class="image-banner-bottom"></div>
 
-    <div class="image-banner-bottom"></div> <!-- Pasek na dole -->
+    <!-- Baner cookies -->
+    <div class="cookie-banner" id="cookieBanner">
+        Ta strona używa plików cookie, aby zapewnić najlepsze doświadczenia użytkownika. Kontynuując przeglądanie, zgadzasz się na ich użycie.
+        <button onclick="acceptCookies()">Akceptuję</button>
+        <button onclick="declineCookies()">Odrzucam</button>
+        <button class="privacy-policy" id="privacyPolicyBtn">Polityka prywatności</button>
+    </div>
+
+    <!-- Modal z polityką prywatności -->
+    <div id="privacyPolicyModal" class="privacy-policy-modal">
+        <div class="privacy-policy-content">
+            <span class="close" onclick="closePrivacyPolicy()">×</span>
+            <h2>Polityka Prywatności</h2>
+            <p>Wyrażam zgodę na przechowywanie plików cookie funkcjonalnych na moim urządzeniu. Pliki te są niezbędne do prawidłowego działania strony internetowej oraz zapewnienia optymalnego użytkowania. Obejmują one funkcje takie jak zapamiętywanie ustawień użytkownika, preferencji językowych oraz zapewnianie ulepszonych i bardziej spersonalizowanych funkcji. Pliki cookie funkcjonalne nie gromadzą informacji, które mogłyby być użyte do celów marketingowych.</p>
+        </div>
+    </div>
+
+
+
+    <script>
+        function acceptCookies() {
+            document.getElementById('cookieBanner').style.display = 'none';
+            document.cookie = "cookiesAccepted=true; path=/; max-age=31536000"; // Cookie ważne przez rok
+        }
+
+        function declineCookies() {
+            document.getElementById('cookieBanner').style.display = 'none';
+            document.cookie = "cookiesAccepted=false; path=/; max-age=31536000"; // Cookie ważne przez rok
+        }
+
+        function checkCookies() {
+            if (!document.cookie.includes("cookiesAccepted=true") && !document.cookie.includes("cookiesAccepted=false")) {
+                document.getElementById('cookieBanner').style.display = 'block';
+            }
+        }
+
+        window.onload = checkCookies;
+
+        // Funkcja otwierająca modal
+        document.getElementById('privacyPolicyBtn').onclick = function () {
+            document.getElementById('privacyPolicyModal').style.display = 'block';
+        }
+
+        // Funkcja zamykająca modal
+        function closePrivacyPolicy() {
+            document.getElementById('privacyPolicyModal').style.display = 'none';
+        }
+
+
+    </script>
 </body>
 </html>
 

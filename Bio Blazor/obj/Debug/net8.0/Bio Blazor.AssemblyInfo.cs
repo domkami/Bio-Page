@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bio_Blazor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43825a3c4a141789549f84f0ef8ec2e1adbd49ac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb3797c1ef720540512247868b75637599d45ed7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bio_Blazor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bio_Blazor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
