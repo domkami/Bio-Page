@@ -26,8 +26,7 @@
 
         /* Kontener */
         .container {
-            max-width: 100%;
-            width: 100%;
+            width: 100%; /* Zmieniono z max-width na width */
             height: 100%;
             background: rgba(255, 255, 255, 0.8);
             padding: 30px;
@@ -38,6 +37,7 @@
             flex-direction: column;
             justify-content: center;
             padding-top: 150px;
+            box-sizing: border-box; /* Dodano box-sizing */
         }
 
         /* Pasek ze zdjęciem na górze */
@@ -118,8 +118,8 @@
         .image {
             width: 100%;
             height: auto;
-            max-width: 100%;
-            object-fit: cover;
+            display: block; /* Dodano display: block */
+            box-sizing: border-box; /* Dodano box-sizing */
         }
 
         /* Baner cookie */
@@ -135,7 +135,6 @@
             display: none;
         }
 
-
             .cookie-banner button {
                 background: #4caf50;
                 color: white;
@@ -144,6 +143,7 @@
                 margin-left: 10px;
                 cursor: pointer;
             }
+
         /* Przycisk Polityka prywatności */
         .privacy-policy {
             background: #4caf50;
@@ -163,15 +163,15 @@
 
         /* Modal */
         .privacy-policy-modal {
-            display: none; /* Ukryj modal domyślnie */
+            display: none;
             position: fixed;
-            z-index: 1; /* Ustawienie na wierzchu */
+            z-index: 1;
             left: 0;
             top: 0;
             width: 100%;
             height: 100%;
-            background-color: rgba(0, 0, 0, 0.5); /* Przezroczyste tło */
-            padding-top: 60px; /* Odstęp od góry */
+            background-color: rgba(0, 0, 0, 0.5);
+            padding-top: 60px;
             text-align: center;
         }
 
@@ -210,7 +210,6 @@
             color: #555;
             line-height: 1.5;
         }
-
     </style>
 </head>
 <body>
