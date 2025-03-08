@@ -36,17 +36,17 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"449111"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Feb 2025 11:49:50 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Bio_Blazor/cennik.1tsusmvbyn.html">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cennik.html'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1tsusmvbyn"},{"Name":"integrity","Value":"sha256-VVELdV9yz44fkneJuU16uYY0d/9yHzzgxdwEO44oZqo="},{"Name":"label","Value":"_content/Bio_Blazor/cennik.html"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10627"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022VVELdV9yz44fkneJuU16uYY0d/9yHzzgxdwEO44oZqo=\u0022"},{"Name":"Last-Modified","Value":"Sat, 08 Mar 2025 16:46:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Bio_Blazor/cennik.html">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cennik.html'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-VVELdV9yz44fkneJuU16uYY0d/9yHzzgxdwEO44oZqo="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"10627"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022VVELdV9yz44fkneJuU16uYY0d/9yHzzgxdwEO44oZqo=\u0022"},{"Name":"Last-Modified","Value":"Sat, 08 Mar 2025 16:46:51 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-glfqhQQJd8E17fXK1qniyM1gcDd6Nc47kuYKJHD\u002BB18="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"11073"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022glfqhQQJd8E17fXK1qniyM1gcDd6Nc47kuYKJHD\u002BB18=\u0022"},{"Name":"Last-Modified","Value":"Sat, 08 Mar 2025 17:02:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Bio_Blazor/cennik.qq8h5ryagk.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cennik.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qq8h5ryagk"},{"Name":"integrity","Value":"sha256-glfqhQQJd8E17fXK1qniyM1gcDd6Nc47kuYKJHD\u002BB18="},{"Name":"label","Value":"_content/Bio_Blazor/cennik.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11073"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022glfqhQQJd8E17fXK1qniyM1gcDd6Nc47kuYKJHD\u002BB18=\u0022"},{"Name":"Last-Modified","Value":"Sat, 08 Mar 2025 17:02:37 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Bio_Blazor/dowiedz-sie-wiecej.html">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\dowiedz-sie-wiecej.html'))</AssetFile>

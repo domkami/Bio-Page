@@ -79,13 +79,17 @@
         /* Nawigacja */
         nav {
             margin-top: 20px;
+            display: flex; /* Dodajemy flexbox */
+            justify-content: center; /* Wyśrodkowujemy elementy */
+            flex-wrap: wrap; /* Pozwalamy elementom przechodzić do nowej linii, jeśli jest za mało miejsca */
         }
 
             nav a {
-                margin: 0 15px;
+                margin: 5px 10px; /* Zmniejszamy marginesy, aby elementy zmieściły się obok siebie */
                 color: #388e3c;
                 font-size: 1.2rem;
                 text-decoration: none;
+                white-space: nowrap; /* Zapobiegamy łamaniu tekstu w linkach */
             }
 
                 nav a:hover {
@@ -96,12 +100,13 @@
         @media (max-width: 768px) {
             nav {
                 flex-direction: row; /* Utrzymanie układu poziomego na mniejszych ekranach */
-                justify-content: space-around; /* Rozłożenie elementów równomiernie */
+                justify-content: center; /* Rozłożenie elementów równomiernie */
             }
 
                 nav a {
-                    font-size: 1.2rem; /* Dopasowanie rozmiaru czcionki */
+                    font-size: 1rem; /* Dopasowanie rozmiaru czcionki */
                     padding: 5px 10px; /* Zmniejszenie odstępów na małych ekranach */
+                    margin: 5px; /* Zmniejszenie marginesów */
                 }
         }
 

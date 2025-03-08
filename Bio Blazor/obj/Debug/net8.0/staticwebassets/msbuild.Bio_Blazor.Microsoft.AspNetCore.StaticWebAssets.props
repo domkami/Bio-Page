@@ -66,8 +66,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>1tsusmvbyn</Fingerprint>
-      <Integrity>VVELdV9yz44fkneJuU16uYY0d/9yHzzgxdwEO44oZqo=</Integrity>
+      <Fingerprint>qq8h5ryagk</Fingerprint>
+      <Integrity>glfqhQQJd8E17fXK1qniyM1gcDd6Nc47kuYKJHD+B18=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cennik.html'))</OriginalItemSpec>

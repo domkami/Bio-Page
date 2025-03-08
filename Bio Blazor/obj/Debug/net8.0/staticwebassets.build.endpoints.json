@@ -331,51 +331,6 @@
       ]
     },
     {
-      "Route": "cennik.1tsusmvbyn.html",
-      "AssetFile": "cennik.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "10627"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"VVELdV9yz44fkneJuU16uYY0d/9yHzzgxdwEO44oZqo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 16:46:51 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "1tsusmvbyn"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-VVELdV9yz44fkneJuU16uYY0d/9yHzzgxdwEO44oZqo="
-        },
-        {
-          "Name": "label",
-          "Value": "cennik.html"
-        }
-      ]
-    },
-    {
       "Route": "cennik.html",
       "AssetFile": "cennik.html",
       "Selectors": [],
@@ -390,7 +345,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10627"
+          "Value": "11073"
         },
         {
           "Name": "Content-Type",
@@ -398,17 +353,62 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"VVELdV9yz44fkneJuU16uYY0d/9yHzzgxdwEO44oZqo=\""
+          "Value": "\"glfqhQQJd8E17fXK1qniyM1gcDd6Nc47kuYKJHD+B18=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 16:46:51 GMT"
+          "Value": "Sat, 08 Mar 2025 17:02:37 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-VVELdV9yz44fkneJuU16uYY0d/9yHzzgxdwEO44oZqo="
+          "Value": "sha256-glfqhQQJd8E17fXK1qniyM1gcDd6Nc47kuYKJHD+B18="
+        }
+      ]
+    },
+    {
+      "Route": "cennik.qq8h5ryagk.html",
+      "AssetFile": "cennik.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11073"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"glfqhQQJd8E17fXK1qniyM1gcDd6Nc47kuYKJHD+B18=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 17:02:37 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qq8h5ryagk"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-glfqhQQJd8E17fXK1qniyM1gcDd6Nc47kuYKJHD+B18="
+        },
+        {
+          "Name": "label",
+          "Value": "cennik.html"
         }
       ]
     },

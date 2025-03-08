@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "BCOjv/abnOoDNzSnkHos4bHOJxq4jpsgpcX44nMj2Uc=",
+  "Hash": "H4klFFl5ZOboX6zRSZyJ6CYm2nTcPX7+GhLu5/VFGTs=",
   "Source": "Bio_Blazor",
   "BasePath": "_content/Bio_Blazor",
   "Mode": "Default",
@@ -115,8 +115,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "1tsusmvbyn",
-      "Integrity": "VVELdV9yz44fkneJuU16uYY0d/9yHzzgxdwEO44oZqo=",
+      "Fingerprint": "qq8h5ryagk",
+      "Integrity": "glfqhQQJd8E17fXK1qniyM1gcDd6Nc47kuYKJHD+B18=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\cennik.html"
@@ -578,51 +578,6 @@
       ]
     },
     {
-      "Route": "cennik.1tsusmvbyn.html",
-      "AssetFile": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\cennik.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "10627"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"VVELdV9yz44fkneJuU16uYY0d/9yHzzgxdwEO44oZqo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 16:46:51 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "1tsusmvbyn"
-        },
-        {
-          "Name": "label",
-          "Value": "cennik.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-VVELdV9yz44fkneJuU16uYY0d/9yHzzgxdwEO44oZqo="
-        }
-      ]
-    },
-    {
       "Route": "cennik.html",
       "AssetFile": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\cennik.html",
       "Selectors": [],
@@ -633,7 +588,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10627"
+          "Value": "11073"
         },
         {
           "Name": "Content-Type",
@@ -641,11 +596,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"VVELdV9yz44fkneJuU16uYY0d/9yHzzgxdwEO44oZqo=\""
+          "Value": "\"glfqhQQJd8E17fXK1qniyM1gcDd6Nc47kuYKJHD+B18=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 16:46:51 GMT"
+          "Value": "Sat, 08 Mar 2025 17:02:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -655,7 +610,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-VVELdV9yz44fkneJuU16uYY0d/9yHzzgxdwEO44oZqo="
+          "Value": "sha256-glfqhQQJd8E17fXK1qniyM1gcDd6Nc47kuYKJHD+B18="
+        }
+      ]
+    },
+    {
+      "Route": "cennik.qq8h5ryagk.html",
+      "AssetFile": "C:\\Users\\kamil\\OneDrive\\Desktop\\Projekty Visual\\Bio Blazor Git\\Bio Blazor\\wwwroot\\cennik.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11073"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"glfqhQQJd8E17fXK1qniyM1gcDd6Nc47kuYKJHD+B18=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 17:02:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qq8h5ryagk"
+        },
+        {
+          "Name": "label",
+          "Value": "cennik.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-glfqhQQJd8E17fXK1qniyM1gcDd6Nc47kuYKJHD+B18="
         }
       ]
     },
