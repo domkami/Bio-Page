@@ -123,6 +123,7 @@
         }
 
         /* Baner cookie */
+        /* Pasek cookies */
         .cookie-banner {
             position: fixed;
             bottom: 0;
@@ -130,32 +131,64 @@
             width: 100%;
             background: rgba(0, 0, 0, 0.8);
             color: white;
-            padding: 15px;
+            padding: 10px 20px; /* Zmniejszenie paddingu */
             text-align: center;
             display: none;
         }
 
+            /* Stylowanie przycisków */
             .cookie-banner button {
                 background: #4caf50;
                 color: white;
                 border: none;
-                padding: 10px 20px;
-                margin-left: 10px;
+                padding: 8px 15px; /* Zmniejszenie paddingu przycisków */
+                margin: 0 5px; /* Zmniejszenie marginesów */
                 cursor: pointer;
+                font-size: 0.9rem; /* Zmniejszenie rozmiaru czcionki */
             }
+
+                /* Zmiana koloru przycisku na hover */
+                .cookie-banner button:hover {
+                    background-color: #388e3c;
+                }
 
         /* Przycisk Polityka prywatności */
         .privacy-policy {
             background: #4caf50;
             color: white;
             border: none;
-            padding: 10px 20px;
-            margin-left: 10px;
+            padding: 8px 15px; /* Zmniejszenie paddingu */
+            margin: 0 5px;
             cursor: pointer;
-            font-size: 1rem;
+            font-size: 0.9rem; /* Zmniejszenie rozmiaru czcionki */
             border-radius: 5px;
             transition: background-color 0.3s;
         }
+
+            /* Zmiana koloru przycisku Polityka prywatności na hover */
+            .privacy-policy:hover {
+                background-color: #388e3c;
+            }
+
+        /* Media query dla urządzeń mobilnych */
+        @media (max-width: 768px) {
+            /* Zmniejszenie rozmiaru paska cookies na urządzeniach mobilnych */
+            .cookie-banner {
+                padding: 8px 15px; /* Zmniejszenie paddingu paska */
+            }
+
+                /* Zmniejszenie rozmiaru przycisków na urządzeniach mobilnych */
+                .cookie-banner button {
+                    padding: 6px 12px; /* Zmniejszenie paddingu przycisków */
+                    font-size: 0.8rem; /* Zmniejszenie czcionki przycisków */
+                }
+
+            .privacy-policy {
+                padding: 6px 12px; /* Zmniejszenie paddingu przycisku polityki prywatności */
+                font-size: 0.8rem; /* Zmniejszenie czcionki przycisku */
+            }
+        }
+
 
             .privacy-policy:hover {
                 background-color: #388e3c;

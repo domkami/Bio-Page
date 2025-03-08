@@ -79,6 +79,8 @@
         /* Nawigacja */
         nav {
             margin-top: 20px;
+            position: relative; /* Dodane */
+            z-index: 1; /* Dodane */
         }
 
             nav a {
@@ -91,6 +93,21 @@
                 nav a:hover {
                     color: #1b5e20;
                 }
+
+        /* Responsywność - poprawka nawigacji */
+        @media (max-width: 768px) {
+            nav {
+                display: flex;
+                flex-direction: column; /* Zmiana układu na pionowy */
+                align-items: center;
+            }
+
+                nav a {
+                    margin: 10px 0; /* Większe odstępy między linkami */
+                    font-size: 1.5rem; /* Zwiększenie czcionki */
+                }
+        }
+
 
         /* Tabela cennika */
         table {

@@ -66,8 +66,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>mxdogt6rwk</Fingerprint>
-      <Integrity>iiC7e1eCfXkVjNynfimoEjLyheIVG9gIkOBNzqX72Mw=</Integrity>
+      <Fingerprint>ke7yjkkk6n</Fingerprint>
+      <Integrity>BKNvzY79ZIHIgqXCFnkrPN8hLWp1C90OfuaThPG+uDo=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cennik.html'))</OriginalItemSpec>
@@ -120,8 +120,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>ci5qzydh88</Fingerprint>
-      <Integrity>ZHl7v2zjfwYaI9PMskSoUL//ZxGLiS0EBxXpDKRC0Rw=</Integrity>
+      <Fingerprint>iibhrk19z2</Fingerprint>
+      <Integrity>dpCQz3N8K1OjignCjqXzfY1LQmBGldzLkb+LlQ233sg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\HTMLBIOPAGE.html'))</OriginalItemSpec>
